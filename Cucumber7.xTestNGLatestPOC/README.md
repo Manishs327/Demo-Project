@@ -18,5 +18,3 @@ Maven 3.x
 # Run the tests with Maven:
 ``` mvn clean test ```
 
-The tests will execute in parallel, and you can view the test results in the target/cucumber-reports directory.
-
